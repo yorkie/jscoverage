@@ -1,17 +1,15 @@
 jscoverage
 ==========
-![logo](https://raw.github.com/fishbar/jscoverage/master/logo.png)
 
-jscoverage tool, both node.js or javascript support
+jscoverage tool, both node.js or javascript support, only used for pixbi
 
-[![Build Status](https://travis-ci.org/fishbar/jscoverage.svg)](https://travis-ci.org/fishbar/jscoverage)
-[![NPM version](https://badge.fury.io/js/jscoverage.svg)](http://badge.fury.io/js/jscoverage)
+[![NPM version](https://badge.fury.io/js/pixbi-jscoverage.svg)](http://badge.fury.io/js/jscoverage)
 
 
 ### install
 
 ```sh
-npm install jscoverage
+npm install pixbi-jscoverage
 ```
 
 ### changelog
