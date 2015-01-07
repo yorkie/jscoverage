@@ -1,5 +1,5 @@
 {
-  "name": "jscoverage",
+  "name": "pixbi-jscoverage",
   "version": "0.5.9",
   "description": "a javascript coverage tool, can be used in node dev, and browser side js dev",
   "main": "index.js",
@@ -39,7 +39,8 @@
   ],
   "author": "fish <zhengxinlin@gmail.com>, kate.sf <kate.sf@taobao.com>",
   "contributors":[
-    { "name": "christineRR", "email": "rongkunli1215@gmail.com" }
+    { "name": "christineRR", "email": "rongkunli1215@gmail.com" },
+    { "name": "Yorkie Liu", "email": "yorkiefixer@gmail.com" }
   ],
   "license": "MIT"
 }
